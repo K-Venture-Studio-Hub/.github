@@ -12,7 +12,7 @@
 
 *Explore the problem. Validate the venture. Build the system.*
 
->> Designed to reduce startup friction for founders, mentors, researchers, and early builders.
+Designed to reduce startup friction for founders, mentors, researchers, and early builders.
 
 </div>
 
